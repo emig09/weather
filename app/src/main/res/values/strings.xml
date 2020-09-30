@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="add_city">Agregar ciudad</string>
+    <string name="search">Search</string>
+    <string name="main_not_location_found">No se encontró la ubicación</string>
+    <string name="main_no_connectivity">No hay conectividad</string>
+    <string name="main_unknown_error">Error desconocido</string>
+</resources>
